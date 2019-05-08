@@ -32,7 +32,7 @@ _If you have any issues or have questions, ideas, concerns, please contact: josh
 _**HTML5** - Hyper Text Markup Language_<br/>
 _**CSS3** - Cascading Style Sheets_<br/>
 _**BOOTSTRAP4** - Bootstrap_</br>
-_**JQUERY-3.3.1.** - JQuery_</br>
+_**JQUERY-3.4.0.** - JQuery_</br>
 _**VANILLA JAVASCRIPT** - JavaScript_
 
 ## License
